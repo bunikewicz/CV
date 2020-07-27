@@ -2,17 +2,17 @@
 (860) 301 3660; brendan.m.unikewicz@lmco.com 
 
 ## Education
-Ph.D., Ocean Engineering <br>                                                                                                      
-University of Rhode Island <br>                                                                                                       
-09/2019 – Present; <br>
+Ph.D., Ocean Engineering                                                                                                 
+University of Rhode Island                                                                                             
+09/2019 – Present;
 
-M.Sc., Ocean Engineering <br>                                                                                                       
-University of Rhode Island <br>                                                                                                       
-05/2019 <br>
+M.Sc., Ocean Engineering                                                                                                    
+University of Rhode Island                                                                                                       
+05/2019
 
-B.Sc., Ocean Engineering (Summa Cum Laude) <br>                                                                    
-University of Rhode Island <br>                                                                                                       
-05/2018 <br>
+B.Sc., Ocean Engineering (Summa Cum Laude)                                                                    
+University of Rhode Island                                                                                            
+05/2018
 
 ## Professional History
 Ocean Engineer Senior:  07/2020 – Present<br>
