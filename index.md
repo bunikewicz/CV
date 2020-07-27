@@ -31,7 +31,7 @@ Acoustics Engineering Intern: 05/2016 – 09/2016<br>
 Employer: Naval Undersea Warfare Center; Newport Division (NUWCDIVNPT)<br>
 Sensors and SONAR Systems: Advanced Concepts Division: Prototype Development<br>
 
-## Graduate Assistantships<br>
+## Graduate Assistantships
 Robotics for Complex Undersea Environments: 09/2019 – Present<br>
 Employer: Univ. of Rhode Island; Ocean Engineering Department<br>
 
@@ -44,14 +44,14 @@ Employer: Univ. of Rhode Island; Ocean Engineering Department<br>
 Graduate Teaching Assistantship: Ocean Engineering Department: 09/2018 – 05/2019<br>
 Employer: Univ. of Rhode Island; Ocean Engineering Department<br>
 
-## Undergraduate Assistantships<br>
+## Undergraduate Assistantships
 Undersea Robotics & Imaging Laboratory: 12/2017 – 5/2018<br>
 Employer: Univ. of Rhode Island; Ocean Engineering Department<br>
 
 Experimental Fluid Mechanics Laboratory: 9/2016 – 12/2016<br>
 Employer: Univ. of Rhode Island; Ocean Engineering Department<br>
 
-## RESEARCH VESSEL (R/V) CRUISES<br>
+## RESEARCH VESSEL (R/V) CRUISES
 R/V Neil Armstrong: Advance Novel Autonomous Underwater Vehicle Systems for Full-Ocean
 Depth Exploration and Research; 09/10/2019 – 09/15/2019 <br>
 R/V Falkor: Designing the Future; 10/09/2019 – 10/18/2019<br>
@@ -99,7 +99,7 @@ Status: Awarded<br>
 
 Total Awarded to Date: $416,268<br>
 
-## Leadership Roles & Volunteer Experiences: 
+## Leadership Roles & Volunteer Experiences
 Ally & Advocate – Women’s Impact Network Business Resource Group: 06/2020 – Present <br>
 Engineering Tutor and Mentor: 09/2015 – Present <br>
 President of Omega Epsilon – The Ocean Engineering Honor Society: 5/2017 – 5/2018<br>
@@ -121,4 +121,4 @@ Division IA University of Rhode Island Men’s Rugby: 9/2014 – 5/2017<br>
 ▪    American Society of Naval Engineers;<br>
 ▪    Institute of Electrical and Electronics Engineers (IEEE);<br>
 
-## REFERENCES AVAILABLE UPON REQUEST
+## References Available Upon Request
