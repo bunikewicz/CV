@@ -2,22 +2,25 @@
 Cell: (860) 301-3660; brendan.m.unikewicz@lmco.com 
 
 ## EDUCATION
-Ph.D., Ocean Engineering                                                                                                        Narragansett, RI
-University of Rhode Island                                                                                                        9/2019 – Present; 
+Ph.D., Ocean Engineering                                                                                                       
+University of Rhode Island                                                                                                        
+09/2019 – Present; 
 
-M.Sc., Ocean Engineering                                                                                                        Narragansett, RI
-University of Rhode Island                                                                                                        5/2019
+M.Sc., Ocean Engineering                                                                                                        
+University of Rhode Island                                                                                                        
+05/2019
 
-B.Sc., Ocean Engineering (Summa Cum Laude)                                                                     Narragansett, RI
-University of Rhode Island                                                                                                        5/2018
+B.Sc., Ocean Engineering (Summa Cum Laude)                                                                     
+University of Rhode Island                                                                                                        
+05/2018
 
 ## PROFESSIONAL HISTORY
-Ocean Engineer Senior:  07/2020 – Present 
-                   Employer: Lockheed Martin; Middletown, Rhode Island
+Ocean Engineer Senior:  07/2020 – Present
+Employer: Lockheed Martin; Middletown, Rhode Island
 Rotary and Mission Systems: C6ISR
 
 Ocean Systems Engineer:  07/2018 – 07/2020 
-                   Employer: Lockheed Martin; Middletown, Rhode Island
+Employer: Lockheed Martin; Middletown, Rhode Island
 Rotary and Mission Systems: C6ISR
 
 Ocean Systems Engineering Intern:  05/2017 – 07/2018
@@ -71,7 +74,7 @@ Systems for Long-Term Ocean Observatory and UUV-Based Applications.
 Near Surface Operations.
 ▪    Active dissertation project; for more information please contact directly
 
-BAA PROPOSAL ACTIVITY:
+## BAA PROPOSAL ACTIVITY:
 
 1.   National Aeronautics and Space Administration (NASA) – Lunar Loo Challenge
 A Self-Contained Lunar- and Micro-Gravity Waste Management System for NASA’s Artemis and Human Landing System Program.
@@ -96,7 +99,7 @@ Status: Awarded
 
 Total Awarded to Date: $416,268
 
-LEADERSHIP ROLES & VOLUNTEER EXPERIENCE: 
+## LEADERSHIP ROLES & VOLUNTEER EXPERIENCE: 
 Ally & Advocate – Women’s Impact Network Business Resource Group: 06/2020 – Present 
 Engineering Tutor and Mentor: 09/2015 – Present 
 President of Omega Epsilon – The Ocean Engineering Honor Society: 5/2017 – 5/2018
@@ -105,20 +108,17 @@ Division IA University of Rhode Island Men’s Rugby: 9/2014 – 5/2017
 
 
 ## ENGINEERING HONORS & PROFESSIONAL AFFILIATIONS
-▪    2020 ASEE NDSEG Fellowship
-▪    2020 NREIP Fellowship
-▪    2019 – 2022 NEEC Ph.D. Student
-▪    2019 NSF Graduate Research Fellowship, Honorable Mention
-▪    Lockheed Martin 1,000 Hours Award
-▪    Lockheed Martin, C6ISR 2017 – 2018 Intern of the Year
-▪    Tau Beta Pi – The Engineering Honor Society
-▪    Omega Epsilon – Ocean Engineering Honor Society
-▪    Dr. J.C. Swanson Ocean Engineering Scholarship
-▪    Robert Edmund Marcille Engineering Scholarship
-▪    American Society of Naval Engineers
-▪    Institute of Electrical and Electronics Engineers (IEEE)
-o  Instrumentation and Measurement Society;
-o  Oceanic Engineering Society;
-o  Robotics and Automation Society;
+▪    2020 ASEE NDSEG Fellowship;
+▪    2020 NREIP Fellowship;
+▪    2019 – 2022 NEEC Ph.D. Student;
+▪    2019 NSF Graduate Research Fellowship, Honorable Mention;
+▪    Lockheed Martin 1,000 Hours Award;
+▪    Lockheed Martin, C6ISR 2017 – 2018 Intern of the Year;
+▪    Tau Beta Pi – The Engineering Honor Society;
+▪    Omega Epsilon – Ocean Engineering Honor Society;
+▪    Dr. J.C. Swanson Ocean Engineering Scholarship;
+▪    Robert Edmund Marcille Engineering Scholarship;
+▪    American Society of Naval Engineers;
+▪    Institute of Electrical and Electronics Engineers (IEEE);
 
-REFERENCES AVAILABLE UPON REQUEST
+## REFERENCES AVAILABLE UPON REQUEST
